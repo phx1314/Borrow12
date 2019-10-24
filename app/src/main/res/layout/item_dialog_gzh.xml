@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:background="#00000000" android:gravity="center" android:orientation="vertical">
+     <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/j30dp" android:background="@drawable/shape_white_small" android:gravity="center_horizontal" android:orientation="vertical" android:padding="@dimen/j12dp">
+          <TextView style="@style/text_style_13_black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="公众号文本已经复制" />
+          <TextView style="@style/text_style_13_black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/j3dp" android:text="打开微信-点解搜索-粘贴-搜一搜" />
+          <TextView style="@style/text_style_13_black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/j3dp" android:text="泓海网络" android:textColor="@color/A" />
+          <TextView style="@style/text_style_13_black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/j3dp" android:text="就能关注" />
+          <TextView style="@style/text_style_13_black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/j3dp" android:text="泓海网络公众号啦!" />
+          <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/j3dp" android:src="@drawable/gzh" />
+          <TextView android:id="@+id/mImageView_dl" style="@style/text_style_15_white" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/j5dp" android:layout_marginTop="@dimen/j15dp" android:background="@drawable/shape_red_zc" android:gravity="center" android:padding="@dimen/j8dp" android:text="马上去微信" />
+     </LinearLayout>
+     <ImageView android:id="@+id/mImageView_close" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gzh_quxiao" />
+</LinearLayout>
+

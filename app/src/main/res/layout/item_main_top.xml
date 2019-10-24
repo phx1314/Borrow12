@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F7F7F9"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/j5dp"
+    android:paddingRight="@dimen/j5dp"
+    android:paddingTop="@dimen/j5dp">
+
+    <com.framewidget.view.DfCirleCurr
+        android:id="@+id/mDfCirleCurr"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/j130dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/j12dp"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/j20dp"
+        android:paddingRight="@dimen/j20dp">
+
+        <TextView
+            android:id="@+id/mTextView_ss"
+            style="@style/text_style_15_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="@dimen/j3dp"
+            android:drawableTop="@drawable/nav_dkss"
+            android:gravity="center"
+            android:text="贷款搜索" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/mTextView_tj"
+            style="@style/text_style_15_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="@dimen/j3dp"
+            android:drawableTop="@drawable/nav_tjdk"
+            android:gravity="center"
+            android:text="推荐贷款" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+
+        <TextView
+            android:id="@+id/mTextView_hdtj"
+            style="@style/text_style_15_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="@dimen/j3dp"
+            android:drawableTop="@drawable/nav_hdtj"
+            android:gravity="center"
+            android:text="活动推荐" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/mLinearLayout_zixun"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/j30dp"
+        android:layout_marginLeft="@dimen/j20dp"
+        android:layout_marginRight="@dimen/j20dp"
+        android:layout_marginTop="@dimen/j12dp"
+        android:background="@drawable/shape_white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/j10dp"
+        android:paddingRight="@dimen/j15dp">
+
+        <ImageView
+            android:layout_width="@dimen/j15dp"
+            android:layout_height="@dimen/j15dp"
+            android:src="@drawable/laba" />
+
+        <ViewFlipper
+            android:id="@+id/mViewFlipper"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/j5dp"
+            android:autoStart="true"
+            android:flipInterval="2000"
+            android:inAnimation="@anim/push_up_in"
+            android:outAnimation="@anim/push_up_out" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/j20dp"
+        android:layout_marginRight="@dimen/j20dp"
+        android:layout_marginTop="@dimen/j12dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/text_style_15_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="为您推荐"
+            android:textColor="#FF5333" />
+
+        <TextView
+            android:id="@+id/mTextView_hyp"
+            style="@style/text_style_13_gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/huan"
+            android:drawablePadding="@dimen/j5dp"
+            android:gravity="center"
+            android:text="换一批" />
+    </LinearLayout>
+</LinearLayout>
+

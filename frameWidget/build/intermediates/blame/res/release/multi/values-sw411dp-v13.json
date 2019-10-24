@@ -1,0 +1,558 @@
+[
+    {
+        "outputFile": "F:\\AsWork\\Borrow12\\frameWidget\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw411dp-v13\\values-sw411dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 5,
+                        "startOffset": 1138,
+                        "endColumn": 61,
+                        "endOffset": 1194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 58,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 5,
+                        "startOffset": 1201,
+                        "endColumn": 59,
+                        "endOffset": 1255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 44,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 5,
+                        "startOffset": 1309,
+                        "endColumn": 45,
+                        "endOffset": 1349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 43,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 5,
+                        "startOffset": 1000,
+                        "endColumn": 44,
+                        "endOffset": 1039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 42,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 5,
+                        "startOffset": 58,
+                        "endColumn": 43,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 43,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 5,
+                        "startOffset": 731,
+                        "endColumn": 44,
+                        "endOffset": 770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 351,
+                    "endColumn": 44,
+                    "endOffset": 391
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 5,
+                        "startOffset": 1262,
+                        "endColumn": 45,
+                        "endOffset": 1302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 396,
+                    "endColumn": 43,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 5,
+                        "startOffset": 597,
+                        "endColumn": 44,
+                        "endOffset": 636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 43,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 5,
+                        "startOffset": 460,
+                        "endColumn": 44,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 484,
+                    "endColumn": 43,
+                    "endOffset": 523
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 5,
+                        "startOffset": 232,
+                        "endColumn": 44,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 528,
+                    "endColumn": 44,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 5,
+                        "startOffset": 821,
+                        "endColumn": 45,
+                        "endOffset": 861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 41,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 5,
+                        "startOffset": 956,
+                        "endColumn": 42,
+                        "endOffset": 993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 42,
+                    "endOffset": 653
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 5,
+                        "startOffset": 868,
+                        "endColumn": 43,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 658,
+                    "endColumn": 43,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 5,
+                        "startOffset": 1356,
+                        "endColumn": 44,
+                        "endOffset": 1395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 44,
+                    "endOffset": 742
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 5,
+                        "startOffset": 368,
+                        "endColumn": 45,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 747,
+                    "endColumn": 40,
+                    "endOffset": 783
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 5,
+                        "startOffset": 688,
+                        "endColumn": 41,
+                        "endOffset": 724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 788,
+                    "endColumn": 42,
+                    "endOffset": 826
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 5,
+                        "startOffset": 415,
+                        "endColumn": 43,
+                        "endOffset": 453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 831,
+                    "endColumn": 40,
+                    "endOffset": 867
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 5,
+                        "startOffset": 913,
+                        "endColumn": 41,
+                        "endOffset": 949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 872,
+                    "endColumn": 43,
+                    "endOffset": 911
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 5,
+                        "startOffset": 506,
+                        "endColumn": 44,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 916,
+                    "endColumn": 42,
+                    "endOffset": 954
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 5,
+                        "startOffset": 278,
+                        "endColumn": 43,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 959,
+                    "endColumn": 40,
+                    "endOffset": 995
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 5,
+                        "startOffset": 103,
+                        "endColumn": 41,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1000,
+                    "endColumn": 43,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 5,
+                        "startOffset": 1092,
+                        "endColumn": 44,
+                        "endOffset": 1131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 43,
+                    "endOffset": 1083
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 5,
+                        "startOffset": 1046,
+                        "endColumn": 44,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1088,
+                    "endColumn": 42,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 5,
+                        "startOffset": 643,
+                        "endColumn": 43,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endColumn": 41,
+                    "endOffset": 1168
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 5,
+                        "startOffset": 146,
+                        "endColumn": 42,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1173,
+                    "endColumn": 41,
+                    "endOffset": 1210
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 5,
+                        "startOffset": 777,
+                        "endColumn": 42,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1215,
+                    "endColumn": 42,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 5,
+                        "startOffset": 552,
+                        "endColumn": 43,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 42,
+                    "endOffset": 1296
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 5,
+                        "startOffset": 323,
+                        "endColumn": 43,
+                        "endOffset": 361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1301,
+                    "endColumn": 39,
+                    "endOffset": 1336
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw411dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 5,
+                        "startOffset": 190,
+                        "endColumn": 40,
+                        "endOffset": 225
+                    }
+                }
+            }
+        ]
+    }
+]

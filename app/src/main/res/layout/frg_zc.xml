@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent" android:background="#fff" android:orientation="vertical">
+     <ScrollView android:layout_width="match_parent" android:layout_height="match_parent" android:scrollbars="none">
+          <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+               <LinearLayout android:layout_width="match_parent" android:layout_height="@dimen/j55dp" android:layout_marginLeft="@dimen/j15dp" android:layout_marginRight="@dimen/j15dp" android:layout_marginTop="@dimen/j35dp" android:gravity="center_vertical" android:orientation="horizontal">
+                    <TextView style="@style/text_style_15_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="4" android:text="手机号" />
+                    <EditText android:id="@+id/mEditText_1" style="@style/text_style_15_gray" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/j15dp" android:background="#00000000" android:hint="请输入您的手机号" android:singleLine="true" android:textColorHint="@color/tyE6" />
+               </LinearLayout>
+               <ImageView android:layout_width="match_parent" android:layout_height="1px" android:layout_marginLeft="@dimen/j10dp" android:layout_marginRight="@dimen/j10dp" android:background="@color/tyD1" />
+               <LinearLayout android:layout_width="match_parent" android:layout_height="@dimen/j55dp" android:layout_marginLeft="@dimen/j15dp" android:layout_marginRight="@dimen/j15dp" android:gravity="center_vertical" android:orientation="horizontal">
+                    <TextView style="@style/text_style_15_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="4" android:text="验证码" />
+                    <EditText android:id="@+id/mEditText_2" style="@style/text_style_15_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/j15dp" android:layout_weight="1" android:background="#00000000" android:hint="请输入验证码" android:singleLine="true" android:textColorHint="@color/tyE6" />
+                    <TextView android:id="@+id/mTextView_fs" style="@style/text_style_15_white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="发送验证码" android:textColor="@color/A" />
+               </LinearLayout>
+               <ImageView android:layout_width="match_parent" android:layout_height="1px" android:layout_marginLeft="@dimen/j10dp" android:layout_marginRight="@dimen/j10dp" android:background="@color/tyD1" />
+               <LinearLayout android:layout_width="match_parent" android:layout_height="@dimen/j55dp" android:layout_marginLeft="@dimen/j15dp" android:layout_marginRight="@dimen/j15dp" android:gravity="center_vertical" android:orientation="horizontal">
+                    <TextView style="@style/text_style_15_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="4" android:text="设置密码" />
+                    <EditText android:id="@+id/mEditText_3" style="@style/text_style_15_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/j15dp" android:inputType="textPassword" android:layout_weight="1" android:background="#00000000" android:hint="请输入您的密码" android:singleLine="true" android:textColorHint="@color/tyE6" />
+               </LinearLayout>
+               <ImageView android:layout_width="match_parent" android:layout_height="1px" android:layout_marginLeft="@dimen/j10dp" android:layout_marginRight="@dimen/j10dp" android:background="@color/tyD1" />
+               <LinearLayout android:id="@+id/mLinearLayout_xy" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/j15dp" android:layout_marginTop="@dimen/j12dp" android:orientation="horizontal">
+                    <CheckBox android:id="@+id/mCheckBox" style="@style/text_style_13_black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:drawablePadding="@dimen/j5dp" android:gravity="center" android:text="已阅读并同意" />
+                    <TextView android:id="@+id/mTextView_xy" style="@style/text_style_13_white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:padding="@dimen/j5dp" android:text="《用户协议》" android:textColor="#7297F5" />
+               </LinearLayout>
+               <TextView android:id="@+id/mImageView_dl" style="@style/text_style_15_white" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/j30dp" android:background="@drawable/shape_red_zc" android:gravity="center" android:padding="@dimen/j10dp" android:text="注册" />
+          </LinearLayout>
+     </ScrollView>
+</LinearLayout>
+

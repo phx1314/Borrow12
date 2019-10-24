@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/mScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RadioGroup
+                android:id="@+id/mRadioGroup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/j12dp"
+                android:background="@drawable/shape_bg_ws"
+                android:checkedButton="@+id/mRadioButton1"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/mRadioButton1"
+                    style="@style/text_style_15_black"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_checked_ws"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:padding="@dimen/j10dp"
+                    android:text="必填信息"
+                    android:textColor="@drawable/select_text_ws" />
+
+                <RadioButton
+                    android:id="@+id/mRadioButton2"
+                    style="@style/text_style_15_black"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_checked_ws2"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:padding="@dimen/j10dp"
+                    android:text="选填信息"
+                    android:textColor="@drawable/select_text_ws" />
+            </RadioGroup>
+
+            <LinearLayout
+                android:id="@+id/mLinearLayout_content"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" />
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/mImageView_dl"
+        style="@style/text_style_15_white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/j25dp"
+        android:layout_marginRight="@dimen/j25dp"
+        android:background="@drawable/shape_red_zc"
+        android:gravity="center"
+        android:padding="@dimen/j10dp"
+        android:text="下一步" />
+
+    <TextView
+        android:id="@+id/mTextView_zc"
+        style="@style/text_style_13_gray"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/j12dp"
+        android:layout_marginTop="@dimen/j15dp"
+        android:gravity="center"
+        android:text="补全资料可提升您的借款速度和成功率" />
+</LinearLayout>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Base
+    AppId="appid"
+    BaseUri="http://api.us233.com"
+    TempPath="Borrow"
+    UpdateUri="http://app.udows.com:82/version/mobile?methodno=MUpdate"
+    UseSdcard="true">
+    <param name="ErrorUpdateUrl">http://app.udows.com:82/version/mobile?methodno=MUpdateError
+    </param>
+    <param name="source">1</param>
+    <param name="WebServiceNamespace">value</param>
+    <param name="WebServiceUrl">value</param>
+    <param name="DefaultFragment">com.system.xmqb.frg.FrgLoading</param>
+    <!--http://api.wo65.com/backend/loan/list-->
+</Base>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="44dip"
+        android:background="@color/A"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/mImageButton_back"
+            android:layout_width="@dimen/j40dp"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:src="@drawable/arrows_left" />
+
+        <EditText
+            android:id="@+id/mEditText"
+            style="@style/text_style_15_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/shape_white"
+            android:hint="贷款速度哪家快"
+            android:paddingBottom="@dimen/j5dp"
+            android:paddingLeft="@dimen/j10dp"
+            android:paddingRight="@dimen/j10dp"
+            android:paddingTop="@dimen/j5dp"
+            android:singleLine="true" />
+
+        <TextView
+            android:id="@+id/mTextView_ss"
+            style="@style/text_style_15_white"
+            android:layout_width="@dimen/j50dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="搜索" />
+    </LinearLayout>
+
+    <RadioGroup
+        android:id="@+id/mRadioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/j40dp"
+        android:background="@color/A"
+        android:checkedButton="@+id/mRadioButton1"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/mRadioButton1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:text="借款成功率"
+            android:textColor="@drawable/select_text"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <RadioButton
+            android:id="@+id/mRadioButton2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:text="借款速度"
+            android:textColor="@drawable/select_text"
+            android:textSize="14sp" />
+
+        <RadioButton
+            android:id="@+id/mRadioButton3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:text="借款利率"
+            android:textColor="@drawable/select_text"
+            android:textSize="14sp" />
+
+        <RadioButton
+            android:id="@+id/mRadioButton4"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:text="借款额度"
+            android:textColor="@drawable/select_text"
+            android:textSize="14sp" />
+    </RadioGroup>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/j8dp"
+        android:background="#F7F7F9" />
+
+    <com.ab.view.pullview.AbPullListView
+        android:id="@+id/mMListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        android:cacheColorHint="#00000000"
+        android:divider="@drawable/line"
+        android:fadingEdge="none"
+        android:listSelector="#00000000" />
+</LinearLayout>
+

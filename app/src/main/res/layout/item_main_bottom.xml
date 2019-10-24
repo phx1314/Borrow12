@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F7F7F9"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/j6dp"
+    android:paddingRight="@dimen/j6dp">
+
+    <TextView
+        android:id="@+id/mTextView_more"
+        style="@style/text_style_15_black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/j12dp"
+        android:drawableRight="@drawable/shouye_more"
+        android:gravity="center"
+        android:text="更多贷款产品"
+        android:textColor="#FF5333" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/j20dp"
+        android:layout_marginRight="@dimen/j20dp"
+        android:layout_marginTop="@dimen/j12dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="1px"
+            android:layout_weight="1"
+            android:background="@color/gray" />
+
+        <TextView
+            style="@style/text_style_13_gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/j5dp"
+            android:layout_marginRight="@dimen/j5dp"
+            android:text="到底了~主子钱借到没~" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="1px"
+            android:layout_weight="1"
+            android:background="@color/gray" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/j15dp" />
+</LinearLayout>
+

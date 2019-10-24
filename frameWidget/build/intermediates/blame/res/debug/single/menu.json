@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AsWork\\Borrow12\\frameWidget\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\CarControl\\frameWidget\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\work\\Borrow12\\frameWidget\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\work\\CarControl\\frameWidget\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\menu\\main.xml"
+    }
+]

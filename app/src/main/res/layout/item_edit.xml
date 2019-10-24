@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="wrap_content" android:gravity="center_vertical" android:orientation="vertical">
+     <TextView android:id="@+id/TextView" style="@style/text_style_11_black" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="@color/gray" android:gravity="center" android:text="紧急联系人" android:visibility="gone" />
+     <EditText android:id="@+id/mEditText" style="@style/text_style_15_black" android:layout_width="match_parent" android:layout_height="@dimen/j60dp" android:background="#00000000" android:gravity="center_vertical" android:padding="@dimen/j5dp" android:singleLine="true" />
+</LinearLayout>
+

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical">
+
+    <RadioGroup
+        android:id="@+id/mRadioGroup1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/j12dp"
+        android:background="@drawable/shape_bg_ws"
+        android:checkedButton="@+id/mRadioButton1"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/mRadioButton1"
+            style="@style/text_style_15_black"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_checked_ws"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="@dimen/j10dp"
+            android:text="身份证信息"
+            android:textColor="@drawable/select_text_ws" />
+
+        <ImageView
+            android:layout_width="@dimen/j1dp"
+            android:layout_height="match_parent"
+            android:background="@color/A" />
+
+        <RadioButton
+            android:id="@+id/mRadioButton2"
+            style="@style/text_style_15_black"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_checked_wscenter"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="@dimen/j10dp"
+            android:text="资讯信息"
+            android:textColor="@drawable/select_text_ws" />
+
+        <ImageView
+            android:layout_width="@dimen/j1dp"
+            android:layout_height="match_parent"
+            android:background="@color/A" />
+
+        <RadioButton
+            android:id="@+id/mRadioButton3"
+            style="@style/text_style_15_black"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_checked_ws2"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="@dimen/j10dp"
+            android:text="其他信息"
+            android:textColor="@drawable/select_text_ws" />
+    </RadioGroup>
+
+    <RadioGroup
+        android:id="@+id/mRadioGroup2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/j12dp"
+        android:layout_marginRight="@dimen/j12dp"
+        android:checkedButton="@+id/mRadioButton4"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/mRadioButton4"
+            style="@style/text_style_13_black"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/j75dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_checked_wsson"
+            android:button="@null"
+            android:drawableTop="@drawable/btn_checked_zl1"
+            android:gravity="center"
+            android:paddingTop="@dimen/j8dp"
+            android:text="工薪族"
+            android:textColor="@drawable/select_text_ws2" />
+
+        <RadioButton
+            android:id="@+id/mRadioButton5"
+            style="@style/text_style_13_black"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/j75dp"
+            android:layout_marginLeft="@dimen/j6dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_checked_wsson"
+            android:button="@null"
+            android:drawableTop="@drawable/btn_checked_zl2"
+            android:gravity="center"
+            android:paddingTop="@dimen/j8dp"
+            android:text="在校学生"
+            android:textColor="@drawable/select_text_ws2"
+            android:visibility="gone" />
+
+        <RadioButton
+            android:id="@+id/mRadioButton6"
+            style="@style/text_style_13_black"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/j75dp"
+            android:layout_marginLeft="@dimen/j6dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_checked_wsson"
+            android:button="@null"
+            android:drawableTop="@drawable/btn_checked_zl3"
+            android:gravity="center"
+            android:paddingTop="@dimen/j8dp"
+            android:text="企业主"
+            android:textColor="@drawable/select_text_ws2" />
+
+        <RadioButton
+            android:id="@+id/mRadioButton7"
+            style="@style/text_style_13_black"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/j75dp"
+            android:layout_marginLeft="@dimen/j6dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_checked_wsson"
+            android:button="@null"
+            android:drawableTop="@drawable/btn_checked_zl4"
+            android:gravity="center"
+            android:paddingTop="@dimen/j8dp"
+            android:text="自由职业者"
+            android:textColor="@drawable/select_text_ws2" />
+    </RadioGroup>
+
+    <com.framewidget.view.MListView
+        android:id="@+id/mListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/j10dp"
+        android:cacheColorHint="#00000000"
+        android:divider="@drawable/line"
+        android:fadingEdge="none"
+        android:listSelector="#00000000" />
+</LinearLayout>
+

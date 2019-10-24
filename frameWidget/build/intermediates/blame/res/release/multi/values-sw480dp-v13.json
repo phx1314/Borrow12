@@ -1,0 +1,558 @@
+[
+    {
+        "outputFile": "F:\\AsWork\\Borrow12\\frameWidget\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw480dp-v13\\values-sw480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 5,
+                        "startOffset": 1044,
+                        "endColumn": 60,
+                        "endOffset": 1099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 57,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 5,
+                        "startOffset": 1106,
+                        "endColumn": 58,
+                        "endOffset": 1159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 39,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 5,
+                        "startOffset": 1209,
+                        "endColumn": 40,
+                        "endOffset": 1244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 40,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 5,
+                        "startOffset": 917,
+                        "endColumn": 41,
+                        "endOffset": 953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 38,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 5,
+                        "startOffset": 58,
+                        "endColumn": 39,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 38,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 5,
+                        "startOffset": 667,
+                        "endColumn": 39,
+                        "endOffset": 701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 40,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 5,
+                        "startOffset": 1166,
+                        "endColumn": 41,
+                        "endOffset": 1202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 38,
+                    "endOffset": 407
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 5,
+                        "startOffset": 546,
+                        "endColumn": 39,
+                        "endOffset": 580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 412,
+                    "endColumn": 38,
+                    "endOffset": 446
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 5,
+                        "startOffset": 425,
+                        "endColumn": 39,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 451,
+                    "endColumn": 38,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 5,
+                        "startOffset": 219,
+                        "endColumn": 39,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 40,
+                    "endOffset": 526
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 5,
+                        "startOffset": 749,
+                        "endColumn": 41,
+                        "endOffset": 785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 531,
+                    "endColumn": 36,
+                    "endOffset": 563
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 5,
+                        "startOffset": 878,
+                        "endColumn": 37,
+                        "endOffset": 910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 568,
+                    "endColumn": 40,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 5,
+                        "startOffset": 792,
+                        "endColumn": 41,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endColumn": 38,
+                    "endOffset": 643
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 5,
+                        "startOffset": 1251,
+                        "endColumn": 39,
+                        "endOffset": 1285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 648,
+                    "endColumn": 40,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 5,
+                        "startOffset": 341,
+                        "endColumn": 41,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 36,
+                    "endOffset": 721
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 5,
+                        "startOffset": 628,
+                        "endColumn": 37,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 726,
+                    "endColumn": 38,
+                    "endOffset": 760
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 5,
+                        "startOffset": 384,
+                        "endColumn": 39,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 765,
+                    "endColumn": 40,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 5,
+                        "startOffset": 835,
+                        "endColumn": 41,
+                        "endOffset": 871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 38,
+                    "endOffset": 840
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 5,
+                        "startOffset": 466,
+                        "endColumn": 39,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 845,
+                    "endColumn": 36,
+                    "endOffset": 877
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 5,
+                        "startOffset": 260,
+                        "endColumn": 37,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 882,
+                    "endColumn": 38,
+                    "endOffset": 916
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 5,
+                        "startOffset": 99,
+                        "endColumn": 39,
+                        "endOffset": 133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 921,
+                    "endColumn": 38,
+                    "endOffset": 955
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 5,
+                        "startOffset": 1003,
+                        "endColumn": 39,
+                        "endOffset": 1037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 960,
+                    "endColumn": 40,
+                    "endOffset": 996
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 5,
+                        "startOffset": 960,
+                        "endColumn": 41,
+                        "endOffset": 996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1001,
+                    "endColumn": 38,
+                    "endOffset": 1035
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 5,
+                        "startOffset": 587,
+                        "endColumn": 39,
+                        "endOffset": 621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1040,
+                    "endColumn": 36,
+                    "endOffset": 1072
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 5,
+                        "startOffset": 140,
+                        "endColumn": 37,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1077,
+                    "endColumn": 38,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 5,
+                        "startOffset": 708,
+                        "endColumn": 39,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1116,
+                    "endColumn": 36,
+                    "endOffset": 1148
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 5,
+                        "startOffset": 507,
+                        "endColumn": 37,
+                        "endOffset": 539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1153,
+                    "endColumn": 39,
+                    "endOffset": 1188
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 5,
+                        "startOffset": 299,
+                        "endColumn": 40,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1193,
+                    "endColumn": 37,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw480dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 5,
+                        "startOffset": 179,
+                        "endColumn": 38,
+                        "endOffset": 212
+                    }
+                }
+            }
+        ]
+    }
+]

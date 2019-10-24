@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:background="#fff" android:gravity="center" android:orientation="vertical">
+     <TextView android:id="@+id/mTextView_4" style="@style/text_style_15_black" android:layout_width="match_parent" android:layout_height="wrap_content" android:gravity="center" android:padding="@dimen/j10dp" android:text="金额不限" />
+     <ImageView android:layout_width="match_parent" android:layout_height="1px" android:background="@color/tyD1" />
+     <TextView android:id="@+id/mTextView_1" style="@style/text_style_15_black" android:layout_width="match_parent" android:layout_height="wrap_content" android:gravity="center" android:padding="@dimen/j10dp" android:text="5000以下" />
+     <ImageView android:layout_width="match_parent" android:layout_height="1px" android:background="@color/tyD1" />
+     <TextView android:id="@+id/mTextView_2" style="@style/text_style_15_black" android:layout_width="match_parent" android:layout_height="wrap_content" android:gravity="center" android:padding="@dimen/j10dp" android:text="5000~30000" />
+     <ImageView android:layout_width="match_parent" android:layout_height="1px" android:background="@color/tyD1" />
+     <TextView android:id="@+id/mTextView_3" style="@style/text_style_15_black" android:layout_width="match_parent" android:layout_height="wrap_content" android:gravity="center" android:padding="@dimen/j10dp" android:text="30000以上" />
+     <ImageView android:layout_width="match_parent" android:layout_height="1px" android:background="@color/tyD1" />
+</LinearLayout>
+

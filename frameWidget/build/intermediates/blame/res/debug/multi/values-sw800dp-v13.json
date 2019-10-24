@@ -1,0 +1,1630 @@
+[
+    {
+        "outputFile": "F:\\work\\Borrow12\\frameWidget\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw800dp-v13\\values-sw800dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 320,
+                        "startOffset": 359,
+                        "endColumn": 356,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 40,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\build\\intermediates\\exploded-aar\\Borrow12\\andframework-release\\unspecified\\res\\values-sw800dp-v13\\values-sw800dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 40,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 38,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 45,
+                        "startOffset": 84,
+                        "endColumn": 79,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 38,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 558,
+                        "startOffset": 597,
+                        "endColumn": 592,
+                        "endOffset": 631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 38,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 114,
+                        "startOffset": 153,
+                        "endColumn": 148,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 38,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 148,
+                        "startOffset": 187,
+                        "endColumn": 182,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 36,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 288,
+                        "startOffset": 327,
+                        "endColumn": 320,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 36,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 526,
+                        "startOffset": 565,
+                        "endColumn": 558,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endColumn": 38,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 11,
+                        "startOffset": 50,
+                        "endColumn": 45,
+                        "endOffset": 84
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 40,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 182,
+                        "startOffset": 221,
+                        "endColumn": 218,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 38,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\build\\intermediates\\exploded-aar\\Borrow12\\andframework-release\\unspecified\\res\\values-sw800dp-v13\\values-sw800dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 137,
+                        "endColumn": 38,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 36,
+                    "endOffset": 518
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 494,
+                        "startOffset": 533,
+                        "endColumn": 526,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endColumn": 39,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 218,
+                        "startOffset": 257,
+                        "endColumn": 253,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 563,
+                    "endColumn": 39,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 426,
+                        "startOffset": 465,
+                        "endColumn": 461,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 41,
+                    "endOffset": 640
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 389,
+                        "startOffset": 428,
+                        "endColumn": 426,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 645,
+                    "endColumn": 39,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 79,
+                        "startOffset": 118,
+                        "endColumn": 114,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 37,
+                    "endOffset": 718
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 356,
+                        "startOffset": 395,
+                        "endColumn": 389,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 723,
+                    "endColumn": 39,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 253,
+                        "startOffset": 292,
+                        "endColumn": 288,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 39,
+                    "endOffset": 798
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\build\\intermediates\\exploded-aar\\Borrow12\\andframework-release\\unspecified\\res\\values-sw800dp-v13\\values-sw800dp-v13.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 39,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 803,
+                    "endColumn": 37,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "F:\\work\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 461,
+                        "startOffset": 500,
+                        "endColumn": 494,
+                        "endOffset": 533
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\AsWork\\Borrow12\\frameWidget\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw800dp-v13\\values-sw800dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 5,
+                        "startOffset": 1051,
+                        "endColumn": 60,
+                        "endOffset": 1106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 57,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 5,
+                        "startOffset": 1113,
+                        "endColumn": 58,
+                        "endOffset": 1166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 39,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 5,
+                        "startOffset": 1216,
+                        "endColumn": 40,
+                        "endOffset": 1251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 40,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 40,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\build\\intermediates\\exploded-aar\\Borrow12\\andframework-release\\unspecified\\res\\values-sw800dp-v13\\values-sw800dp-v13.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 38,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 38,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 40,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 5,
+                        "startOffset": 1173,
+                        "endColumn": 41,
+                        "endOffset": 1209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 38,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 38,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 5,
+                        "startOffset": 427,
+                        "endColumn": 39,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 38,
+                    "endOffset": 526
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 531,
+                    "endColumn": 40,
+                    "endOffset": 567
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 5,
+                        "startOffset": 754,
+                        "endColumn": 41,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 572,
+                    "endColumn": 36,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endColumn": 40,
+                    "endOffset": 645
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 5,
+                        "startOffset": 797,
+                        "endColumn": 41,
+                        "endOffset": 833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 650,
+                    "endColumn": 38,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 5,
+                        "startOffset": 1258,
+                        "endColumn": 39,
+                        "endOffset": 1292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 40,
+                    "endOffset": 725
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 5,
+                        "startOffset": 343,
+                        "endColumn": 41,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 730,
+                    "endColumn": 36,
+                    "endOffset": 762
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 767,
+                    "endColumn": 38,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 40,
+                    "endOffset": 842
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 847,
+                    "endColumn": 38,
+                    "endOffset": 881
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 5,
+                        "startOffset": 468,
+                        "endColumn": 39,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 886,
+                    "endColumn": 38,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\build\\intermediates\\exploded-aar\\Borrow12\\andframework-release\\unspecified\\res\\values-sw800dp-v13\\values-sw800dp-v13.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 36,
+                    "endOffset": 957
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 962,
+                    "endColumn": 39,
+                    "endOffset": 997
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1002,
+                    "endColumn": 39,
+                    "endOffset": 1037
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1042,
+                    "endColumn": 41,
+                    "endOffset": 1079
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1084,
+                    "endColumn": 39,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1124,
+                    "endColumn": 37,
+                    "endOffset": 1157
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 39,
+                    "endOffset": 1197
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1202,
+                    "endColumn": 39,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\build\\intermediates\\exploded-aar\\Borrow12\\andframework-release\\unspecified\\res\\values-sw800dp-v13\\values-sw800dp-v13.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endColumn": 37,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 5,
+                        "startOffset": 509,
+                        "endColumn": 38,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1280,
+                    "endColumn": 39,
+                    "endOffset": 1315
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 5,
+                        "startOffset": 301,
+                        "endColumn": 40,
+                        "endOffset": 336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1320,
+                    "endColumn": 37,
+                    "endOffset": 1353
+                },
+                "from": {
+                    "file": "F:\\AsWork\\Borrow12\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\AsWork\\CarControl\\frameWidget\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw800dp-v13\\values-sw800dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 320,
+                        "startOffset": 359,
+                        "endColumn": 356,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 40,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\build\\intermediates\\exploded-aar\\CarControl\\andframework-release\\unspecified\\res\\values-sw800dp-v13\\values-sw800dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 40,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 38,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 45,
+                        "startOffset": 84,
+                        "endColumn": 79,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 38,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 558,
+                        "startOffset": 597,
+                        "endColumn": 592,
+                        "endOffset": 631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 38,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 114,
+                        "startOffset": 153,
+                        "endColumn": 148,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 38,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 148,
+                        "startOffset": 187,
+                        "endColumn": 182,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 36,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 288,
+                        "startOffset": 327,
+                        "endColumn": 320,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 36,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 526,
+                        "startOffset": 565,
+                        "endColumn": 558,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endColumn": 38,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 11,
+                        "startOffset": 50,
+                        "endColumn": 45,
+                        "endOffset": 84
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 40,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 182,
+                        "startOffset": 221,
+                        "endColumn": 218,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 38,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\build\\intermediates\\exploded-aar\\CarControl\\andframework-release\\unspecified\\res\\values-sw800dp-v13\\values-sw800dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 137,
+                        "endColumn": 38,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 36,
+                    "endOffset": 518
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 494,
+                        "startOffset": 533,
+                        "endColumn": 526,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endColumn": 39,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 218,
+                        "startOffset": 257,
+                        "endColumn": 253,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 563,
+                    "endColumn": 39,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 426,
+                        "startOffset": 465,
+                        "endColumn": 461,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 41,
+                    "endOffset": 640
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 389,
+                        "startOffset": 428,
+                        "endColumn": 426,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 645,
+                    "endColumn": 39,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 79,
+                        "startOffset": 118,
+                        "endColumn": 114,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 37,
+                    "endOffset": 718
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 356,
+                        "startOffset": 395,
+                        "endColumn": 389,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 723,
+                    "endColumn": 39,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 253,
+                        "startOffset": 292,
+                        "endColumn": 288,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 39,
+                    "endOffset": 798
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\build\\intermediates\\exploded-aar\\CarControl\\andframework-release\\unspecified\\res\\values-sw800dp-v13\\values-sw800dp-v13.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 39,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 803,
+                    "endColumn": 37,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "F:\\AsWork\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 461,
+                        "startOffset": 500,
+                        "endColumn": 494,
+                        "endOffset": 533
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\work\\CarControl\\frameWidget\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw800dp-v13\\values-sw800dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 320,
+                        "startOffset": 359,
+                        "endColumn": 356,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 40,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\build\\intermediates\\exploded-aar\\CarControl\\andframework-release\\unspecified\\res\\values-sw800dp-v13\\values-sw800dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 40,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 38,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 45,
+                        "startOffset": 84,
+                        "endColumn": 79,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 38,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 558,
+                        "startOffset": 597,
+                        "endColumn": 592,
+                        "endOffset": 631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 38,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 114,
+                        "startOffset": 153,
+                        "endColumn": 148,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 38,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 148,
+                        "startOffset": 187,
+                        "endColumn": 182,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 36,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 288,
+                        "startOffset": 327,
+                        "endColumn": 320,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 36,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 526,
+                        "startOffset": 565,
+                        "endColumn": 558,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endColumn": 38,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 11,
+                        "startOffset": 50,
+                        "endColumn": 45,
+                        "endOffset": 84
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 40,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 182,
+                        "startOffset": 221,
+                        "endColumn": 218,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 38,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\build\\intermediates\\exploded-aar\\CarControl\\andframework-release\\unspecified\\res\\values-sw800dp-v13\\values-sw800dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 137,
+                        "endColumn": 38,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 36,
+                    "endOffset": 518
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 494,
+                        "startOffset": 533,
+                        "endColumn": 526,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endColumn": 39,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 218,
+                        "startOffset": 257,
+                        "endColumn": 253,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 563,
+                    "endColumn": 39,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 426,
+                        "startOffset": 465,
+                        "endColumn": 461,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 41,
+                    "endOffset": 640
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 389,
+                        "startOffset": 428,
+                        "endColumn": 426,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 645,
+                    "endColumn": 39,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 79,
+                        "startOffset": 118,
+                        "endColumn": 114,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 37,
+                    "endOffset": 718
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 356,
+                        "startOffset": 395,
+                        "endColumn": 389,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 723,
+                    "endColumn": 39,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 253,
+                        "startOffset": 292,
+                        "endColumn": 288,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 39,
+                    "endOffset": 798
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\build\\intermediates\\exploded-aar\\CarControl\\andframework-release\\unspecified\\res\\values-sw800dp-v13\\values-sw800dp-v13.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 39,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 803,
+                    "endColumn": 37,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "F:\\work\\CarControl\\frameWidget\\src\\main\\res\\values-sw800dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 461,
+                        "startOffset": 500,
+                        "endColumn": 494,
+                        "endOffset": 533
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:background="#00000000" android:gravity="center" android:orientation="vertical">
+     <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/j30dp" android:background="@drawable/shape_white_small" android:gravity="center_horizontal" android:orientation="vertical" android:padding="@dimen/j12dp">
+          <TextView style="@style/text_style_15_black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="渠道报备" />
+          <TextView style="@style/text_style_13_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/j3dp" android:text="内容渠道报备，请填写申请人姓名和电话，以确保申请能够获得优先申请资格，提高成功率。" />
+          <EditText android:id="@+id/mEditText_name" style="@style/text_style_15_black" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/j8dp" android:background="@drawable/shape_whitek" android:drawableLeft="@drawable/pet_nicheng" android:drawablePadding="@dimen/j10dp" android:gravity="center_vertical" android:hint="姓名" android:padding="@dimen/j8dp" android:singleLine="true" />
+          <EditText android:id="@+id/mEditText_phone" style="@style/text_style_15_black" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/j8dp" android:background="@drawable/shape_whitek" android:drawableLeft="@drawable/mobile" android:drawablePadding="@dimen/j10dp" android:gravity="center_vertical" android:hint="手机号" android:padding="@dimen/j8dp" android:singleLine="true" />
+          <TextView android:id="@+id/mImageView_dl" style="@style/text_style_15_white" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/j5dp" android:layout_marginTop="@dimen/j15dp" android:background="@drawable/shape_red_zc" android:gravity="center" android:padding="@dimen/j8dp" android:text="立即申请" />
+     </LinearLayout>
+</LinearLayout>
+

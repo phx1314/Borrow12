@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#fff"
+    android:gravity="center_vertical"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/j8dp"
+        android:background="#F7F7F9" />
+
+    <com.framewidget.view.DfCirleCurr
+        android:id="@+id/mDfCirleCurr"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/j130dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/j8dp"
+        android:background="#F7F7F9" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/j55dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="@dimen/j10dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/hdtj" />
+
+        <TextView
+            style="@style/text_style_17_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="最新贷款口子" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/j2dp"
+        android:background="#F7F7F9" />
+
+    <LinearLayout
+        android:id="@+id/mLinearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/j80dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/j30dp"
+            android:paddingRight="@dimen/j30dp">
+
+            <TextView
+                android:id="@+id/mTextView_p1"
+                style="@style/text_style_17_black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="500-10000"
+                android:textColor="#F26934" />
+
+            <TextView
+                android:id="@+id/mTextView_ed1"
+                style="@style/text_style_13_gray"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/j8dp"
+                android:text="额度范围（元）" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/j20dp"
+            android:layout_marginTop="@dimen/j20dp"
+            android:background="@color/gray" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/j20dp"
+            android:paddingRight="@dimen/j20dp">
+
+            <TextView
+                android:id="@+id/mTextView_ly1"
+                style="@style/text_style_13_black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="推荐理由：闪电放款，一天之内钱到账" />
+
+            <TextView
+                android:id="@+id/mTextView_remark1"
+                style="@style/text_style_13_black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/j8dp"
+                android:text="无限花"
+                android:textColor="@color/A" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/j2dp"
+        android:background="#F7F7F9" />
+
+    <LinearLayout
+        android:id="@+id/mLinearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/j80dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/j30dp"
+            android:paddingRight="@dimen/j30dp">
+
+            <TextView
+                android:id="@+id/mTextView_p2"
+                style="@style/text_style_17_black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="500-10000"
+                android:textColor="#F26934" />
+
+            <TextView
+                android:id="@+id/mTextView_ed2"
+                style="@style/text_style_13_gray"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/j8dp"
+                android:text="额度范围（元）" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/j20dp"
+            android:layout_marginTop="@dimen/j20dp"
+            android:background="@color/gray" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/j20dp"
+            android:paddingRight="@dimen/j20dp">
+
+            <TextView
+                android:id="@+id/mTextView_ly2"
+                style="@style/text_style_13_black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="推荐理由：闪电放款，一天之内钱到账" />
+
+            <TextView
+                android:id="@+id/mTextView_remark2"
+                style="@style/text_style_13_black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/j8dp"
+                android:text="无限花"
+                android:textColor="@color/A" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F7F7F9" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/j55dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="@dimen/j10dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/hdtj" />
+
+            <TextView
+                style="@style/text_style_17_black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="主题卡" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/j2dp"
+            android:background="#F7F7F9" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/j160dp"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="@dimen/j10dp">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="@dimen/j5dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/mTextView_name1"
+                        style="@style/text_style_17_black"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="大额卡" />
+
+                    <TextView
+                        android:id="@+id/mTextView_content1"
+                        style="@style/text_style_13_gray"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/j8dp"
+                        android:text="超高取现比例" />
+                </LinearLayout>
+
+                <com.mdx.framework.widget.MImageView
+                    android:id="@+id/mImageView1"
+                    android:layout_width="@dimen/j80dp"
+                    android:layout_height="@dimen/j80dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_margin="@dimen/j5dp"
+                    android:src="@drawable/zhutika_daerka" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="@dimen/j2dp"
+                android:layout_height="match_parent"
+                android:background="#F7F7F9" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/j80dp"
+                    android:padding="@dimen/j10dp">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginLeft="@dimen/j5dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/mTextView_name2"
+                            style="@style/text_style_17_black"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="大额卡" />
+
+                        <TextView
+                            android:id="@+id/mTextView_content2"
+                            style="@style/text_style_13_gray"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/j8dp"
+                            android:text="超高取现比例" />
+                    </LinearLayout>
+
+                    <com.mdx.framework.widget.MImageView
+                        android:id="@+id/mImageView2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_margin="@dimen/j5dp"
+                        android:src="@drawable/zhutika_nvxingka" />
+                </RelativeLayout>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/j2dp"
+                    android:background="#F7F7F9" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:padding="@dimen/j10dp">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginLeft="@dimen/j5dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/mTextView_name3"
+                            style="@style/text_style_17_black"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="大额卡" />
+
+                        <TextView
+                            android:id="@+id/mTextView_content3"
+                            style="@style/text_style_13_gray"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/j8dp"
+                            android:text="超高取现比例" />
+                    </LinearLayout>
+
+                    <com.mdx.framework.widget.MImageView
+                        android:id="@+id/mImageView3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_margin="@dimen/j5dp"
+                        android:src="@drawable/zhutika_shanglvka" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/j2dp"
+            android:background="#F7F7F9" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/j80dp"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="@dimen/j10dp">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="@dimen/j5dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/mTextView_name4"
+                        style="@style/text_style_17_black"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="大额卡" />
+
+                    <TextView
+                        android:id="@+id/mTextView_content4"
+                        style="@style/text_style_13_gray"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/j8dp"
+                        android:text="超高取现比例" />
+                </LinearLayout>
+
+                <com.mdx.framework.widget.MImageView
+                    android:id="@+id/mImageView4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_margin="@dimen/j5dp"
+                    android:src="@drawable/zhutika_chezhuka" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="@dimen/j2dp"
+                android:layout_height="match_parent"
+                android:background="#F7F7F9" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="@dimen/j10dp">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="@dimen/j5dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/mTextView_name5"
+                        style="@style/text_style_17_black"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="大额卡" />
+
+                    <TextView
+                        android:id="@+id/mTextView_content5"
+                        style="@style/text_style_13_gray"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/j8dp"
+                        android:text="超高取现比例" />
+                </LinearLayout>
+
+                <com.mdx.framework.widget.MImageView
+                    android:id="@+id/mImageView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_margin="@dimen/j5dp"
+                    android:src="@drawable/zhutika_chuxingka" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/j8dp"
+            android:background="#F7F7F9" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/j55dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="@dimen/j10dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/hdtj" />
+
+            <TextView
+                style="@style/text_style_17_black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="热门信用卡" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
+

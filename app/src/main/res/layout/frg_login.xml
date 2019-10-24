@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent" android:background="#F7F7F9" android:orientation="vertical">
+     <ScrollView android:layout_width="match_parent" android:layout_height="match_parent" android:scrollbars="none">
+          <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:background="#F7F7F9" android:orientation="vertical">
+               <LinearLayout android:layout_width="match_parent" android:layout_height="@dimen/j40dp" android:background="#fff" android:orientation="horizontal">
+                    <LinearLayout android:id="@+id/mLinearLayout_1" android:layout_width="0dp" android:layout_height="@dimen/j40dp" android:layout_weight="1" android:gravity="center_horizontal" android:orientation="vertical">
+                         <TextView android:id="@+id/mTextView_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" android:gravity="center" android:text="验证码登录" android:textColor="@color/A" android:textSize="15sp" />
+                         <ImageView android:id="@+id/mImageView_1" android:layout_width="@dimen/j80dp" android:layout_height="@dimen/j2dp" android:background="@color/A" />
+                    </LinearLayout>
+                    <LinearLayout android:id="@+id/mLinearLayout_2" android:layout_width="0dp" android:layout_height="@dimen/j40dp" android:layout_weight="1" android:gravity="center_horizontal" android:orientation="vertical">
+                         <TextView android:id="@+id/mTextView_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" android:gravity="center" android:text="账号密码登录" android:textColor="@color/black" android:textSize="15sp" />
+                         <ImageView android:id="@+id/mImageView_2" android:layout_width="@dimen/j100dp" android:layout_height="@dimen/j2dp" android:background="@color/A" android:visibility="invisible" />
+                    </LinearLayout>
+               </LinearLayout>
+               <LinearLayout android:id="@+id/mLinearLayout_left" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="@dimen/j10dp">
+                    <LinearLayout android:layout_width="match_parent" android:layout_height="@dimen/j55dp" android:layout_marginLeft="@dimen/j15dp" android:layout_marginRight="@dimen/j15dp" android:layout_marginTop="@dimen/j25dp" android:gravity="center_vertical" android:orientation="horizontal">
+                         <TextView style="@style/text_style_15_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="4" android:text="手机号" />
+                         <EditText android:id="@+id/mEditText_1" style="@style/text_style_15_gray" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/j15dp" android:background="#00000000" android:hint="请输入您的手机号" android:inputType="phone" android:singleLine="true" android:textColorHint="@color/tyE6" />
+                    </LinearLayout>
+                    <ImageView android:layout_width="match_parent" android:layout_height="1px" android:layout_marginLeft="@dimen/j10dp" android:layout_marginRight="@dimen/j10dp" android:background="@color/tyD1" />
+                    <LinearLayout android:layout_width="match_parent" android:layout_height="@dimen/j55dp" android:layout_marginLeft="@dimen/j15dp" android:layout_marginRight="@dimen/j15dp" android:gravity="center_vertical" android:orientation="horizontal">
+                         <TextView style="@style/text_style_15_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="4" android:text="验证码" />
+                         <EditText android:id="@+id/mEditText_2" style="@style/text_style_15_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/j15dp" android:layout_weight="1" android:background="#00000000" android:hint="请输入验证码" android:inputType="number" android:singleLine="true" android:textColorHint="@color/tyE6" />
+                         <TextView android:id="@+id/mTextView_fs" style="@style/text_style_15_white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="发送验证码" android:textColor="@color/A" />
+                    </LinearLayout>
+                    <ImageView android:layout_width="match_parent" android:layout_height="1px" android:layout_marginLeft="@dimen/j10dp" android:layout_marginRight="@dimen/j10dp" android:background="@color/tyD1" />
+               </LinearLayout>
+               <LinearLayout android:id="@+id/mLinearLayout_right" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="@dimen/j10dp" android:visibility="gone">
+                    <LinearLayout android:layout_width="match_parent" android:layout_height="@dimen/j55dp" android:layout_marginLeft="@dimen/j15dp" android:layout_marginRight="@dimen/j15dp" android:layout_marginTop="@dimen/j25dp" android:gravity="center_vertical" android:orientation="horizontal">
+                         <TextView style="@style/text_style_15_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="4" android:text="手机号" />
+                         <EditText android:id="@+id/mEditText_phone" style="@style/text_style_15_gray" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/j15dp" android:background="#00000000" android:hint="请输入您的账号" android:singleLine="true" android:textColorHint="@color/tyE6" />
+                    </LinearLayout>
+                    <ImageView android:layout_width="match_parent" android:layout_height="1px" android:layout_marginLeft="@dimen/j10dp" android:layout_marginRight="@dimen/j10dp" android:background="@color/tyD1" />
+                    <LinearLayout android:layout_width="match_parent" android:layout_height="@dimen/j55dp" android:layout_marginLeft="@dimen/j15dp" android:layout_marginRight="@dimen/j15dp" android:gravity="center_vertical" android:orientation="horizontal">
+                         <TextView style="@style/text_style_15_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="4" android:text="密码" />
+                         <EditText android:id="@+id/mEditText_mm" style="@style/text_style_15_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/j15dp" android:layout_weight="1" android:background="#00000000" android:hint="请输入您的密码" android:inputType="textPassword" android:singleLine="true" android:textColorHint="@color/tyE6" />
+                         <ImageView android:id="@+id/mImageView_kan" android:layout_width="wrap_content" android:layout_height="wrap_content" android:padding="@dimen/j10dp" android:src="@drawable/mima1" />
+                    </LinearLayout>
+                    <ImageView android:layout_width="match_parent" android:layout_height="1px" android:layout_marginLeft="@dimen/j10dp" android:layout_marginRight="@dimen/j10dp" android:background="@color/tyD1" />
+               </LinearLayout>
+               <TextView android:id="@+id/mImageView_dl" style="@style/text_style_15_white" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/j30dp" android:layout_marginRight="@dimen/j30dp" android:layout_marginTop="@dimen/j20dp" android:background="@drawable/shape_red_zc" android:gravity="center" android:padding="@dimen/j10dp" android:text="登录" />
+               <TextView android:id="@+id/mTextView_zc" style="@style/text_style_15_white" android:layout_width="match_parent" android:layout_height="wrap_content" android:gravity="center" android:padding="@dimen/j20dp" android:text="注册" android:textColor="@color/A" />
+          </LinearLayout>
+     </ScrollView>
+</LinearLayout>
+

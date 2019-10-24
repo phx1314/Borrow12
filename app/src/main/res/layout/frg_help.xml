@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent" android:background="#fff" android:orientation="vertical">
+     <ImageView android:layout_width="match_parent" android:layout_height="@dimen/j8dp" android:background="#F7F7F9" />
+     <LinearLayout android:id="@+id/mLinearLayout_phone" android:layout_width="match_parent" android:layout_height="@dimen/j60dp" android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="@dimen/j10dp" android:paddingRight="@dimen/j10dp">
+          <LinearLayout android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_weight="1" android:gravity="center_vertical" android:orientation="vertical">
+               <TextView style="@style/text_style_15_black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="客服电话 0519-83726606" />
+               <TextView style="@style/text_style_13_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/j5dp" android:text="工作时间：周一至周五9:30~17:30" />
+          </LinearLayout>
+          <ImageView android:layout_width="@dimen/j35dp" android:layout_height="@dimen/j35dp" android:src="@drawable/bangzhuzx_tel" />
+     </LinearLayout>
+     <ImageView android:layout_width="match_parent" android:layout_height="@dimen/j8dp" android:background="#F7F7F9" />
+     <LinearLayout android:id="@+id/mLinearLayout_qq" android:layout_width="match_parent" android:layout_height="@dimen/j60dp" android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="@dimen/j10dp" android:paddingRight="@dimen/j10dp">
+          <LinearLayout android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_weight="1" android:gravity="center_vertical" android:orientation="vertical">
+               <TextView style="@style/text_style_15_black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="在线QQ客服" />
+               <TextView style="@style/text_style_13_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/j5dp" android:text="工作时间：周一至周五9:30~17:30" />
+          </LinearLayout>
+          <ImageView android:layout_width="@dimen/j35dp" android:layout_height="@dimen/j35dp" android:src="@drawable/bangzhuzx_qq" />
+     </LinearLayout>
+     <ImageView android:layout_width="match_parent" android:layout_height="match_parent" android:background="#F7F7F9" />
+</LinearLayout>
+
